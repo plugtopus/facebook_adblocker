@@ -1,0 +1,15 @@
+{
+   "desc": {
+      "message": "Блокировщик рекламы на Facebook. Скрывает все рекламные объявления на сайте."
+   },
+   "name": {
+      "message": "Блокировщик рекламы для сайта Facebook"
+   },
+   "short_name": {
+      "message": "FaceBook adblocker"
+   },
+   "title":
+   {
+       "message": "FaceBook Блокировщик рекламы"
+   }
+}
